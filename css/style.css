@@ -1,0 +1,39 @@
+:root {
+  --red: #dc3545;
+}
+p{
+    font-size: 1.2rem;
+}
+/*! -------------- 1- NAVBAR ---------------- */
+
+
+
+/*! ------------- 2- BANNER --------------- */
+.banner {
+  background-image: url(../img/banner.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  height: 100vh;
+}
+
+/*! ------------ 3- services ----------- */
+.row i{
+    font-size: 9rem;
+}
+
+/*! ------------- 4- portfolio -------------*/
+#portfolio .row {
+    background-color: #dd7b85;
+}
+
+/*! ----------- 4- STUDENTS SECTION ----------*/
+
+/*! ----------- 5- COURSES SECTION ----------- */
+
+/*! ----------- 6- CONTACT SECTION ------------ */
+
+/** -------------- UP-BUTTON ------------------ */
+
+/*! --------------- 7- FOOTER ----------------- */
