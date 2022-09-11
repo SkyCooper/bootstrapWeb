@@ -5,8 +5,8 @@
 
 
 ### Visualization of the Website
-![image] (https://user-images.githubusercontent.com/106506769/189526317-36c11978-3666-4c1f-9560-51c8a859a4da.png)
-![image] (https://user-images.githubusercontent.com/106506769/189526351-54e3807b-0a27-4a99-ac86-f04c2e4d9007.png)
+![image](https://user-images.githubusercontent.com/106506769/189526317-36c11978-3666-4c1f-9560-51c8a859a4da.png)
+![image](https://user-images.githubusercontent.com/106506769/189526351-54e3807b-0a27-4a99-ac86-f04c2e4d9007.png)
 ![image](https://user-images.githubusercontent.com/106506769/189526401-27a9e79e-a757-4af6-b463-8ced1bc34d39.png)
 ![image](https://user-images.githubusercontent.com/106506769/189526415-1331280f-ff16-47f8-a593-6c8733ce03fd.png)
 
