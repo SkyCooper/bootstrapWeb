@@ -28,12 +28,11 @@ p{
     background-color: #dd7b85;
 }
 
-/*! ----------- 4- STUDENTS SECTION ----------*/
+/*! ----------- 5- partners ----------*/
 .client img {
   height: auto;
   max-height: 50px;
 }
-/*! ----------- 5- COURSES SECTION ----------- */
 
 /*! ----------- 6- CONTACT SECTION ------------ */
 .contact{
@@ -43,6 +42,4 @@ p{
   padding-top: 20%;
   color: #eee;
 }
-/** -------------- UP-BUTTON ------------------ */
 
-/*! --------------- 7- FOOTER ----------------- */
