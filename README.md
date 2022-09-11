@@ -19,5 +19,5 @@ I mastered HTML, CSS and Bootstrap features in this project. You can see the vis
 
 ### How to Use the Project
 + First download a code editor
-+ Second open the files : [My Docs](https://github.com/Sekunev/Projects/tree/main/25_Bootstrap-Web-Page)
++ Second open the files : [My Docs](https://github.com/SkyCooper/bootstrapWeb)
 + You can use this tutorial : [VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
