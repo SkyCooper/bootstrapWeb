@@ -13,7 +13,7 @@
 
 ### Overview
 I mastered HTML, CSS and Bootstrap features in this project. You can see the visual representation of the website above.
-![video](https://www.loom.com/share/818e1255d3ea4b0bb8620482b3a2c139)
+![video](https://github.com/SkyCooper/bootstrapWeb/blob/main/Cooper%20Web%20Page.mp4)
 
 ### Used in this project
 👉HTML tags, Bootstrap, Comments, CSS styling, Positioning,etc.
