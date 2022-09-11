@@ -3,6 +3,8 @@
 
 ### Check The Live Website ➡️ [Live Website](https://skycooper.github.io/bootstrapWeb/)
 
+### Animation of the Website
+![image](https://github.com/SkyCooper/bootstrapWeb/blob/main/CooperPage.gif)
 
 ### Visualization of the Website
 ![image](https://user-images.githubusercontent.com/106506769/189526317-36c11978-3666-4c1f-9560-51c8a859a4da.png)
@@ -10,11 +12,10 @@
 ![image](https://user-images.githubusercontent.com/106506769/189526401-27a9e79e-a757-4af6-b463-8ced1bc34d39.png)
 ![image](https://user-images.githubusercontent.com/106506769/189526415-1331280f-ff16-47f8-a593-6c8733ce03fd.png)
 
-![image](https://github.com/SkyCooper/bootstrapWeb/blob/main/CooperPage.gif)
+
 
 ### Overview
 I mastered HTML, CSS and Bootstrap features in this project. You can see the visual representation of the website above.
-![video]https://github.com/SkyCooper/bootstrapWeb/blob/main/CooperPage.mp4
 
 ### Used in this project
 👉HTML tags, Bootstrap, Comments, CSS styling, Positioning,etc.
