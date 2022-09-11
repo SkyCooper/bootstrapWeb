@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/106506769/189526401-27a9e79e-a757-4af6-b463-8ced1bc34d39.png)
 ![image](https://user-images.githubusercontent.com/106506769/189526415-1331280f-ff16-47f8-a593-6c8733ce03fd.png)
 
-https://github.com/SkyCooper/bootstrapWeb/blob/main/CooperPage.gif
+(https://github.com/SkyCooper/bootstrapWeb/blob/main/CooperPage.gif)
 
 ### Overview
 I mastered HTML, CSS and Bootstrap features in this project. You can see the visual representation of the website above.
