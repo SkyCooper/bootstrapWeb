@@ -10,7 +10,7 @@ p{
 
 /*! ------------- 2- BANNER --------------- */
 .banner {
-  background-image: url(../img/banner.jpeg);
+  background-image: url(../img/bg1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 20%;
@@ -29,11 +29,20 @@ p{
 }
 
 /*! ----------- 4- STUDENTS SECTION ----------*/
-
+.client img {
+  height: auto;
+  max-height: 50px;
+}
 /*! ----------- 5- COURSES SECTION ----------- */
 
 /*! ----------- 6- CONTACT SECTION ------------ */
-
+.contact{
+  background: url(../img/map.jpeg) no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #eee;
+}
 /** -------------- UP-BUTTON ------------------ */
 
 /*! --------------- 7- FOOTER ----------------- */
