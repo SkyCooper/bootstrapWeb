@@ -10,10 +10,11 @@
 ![image](https://user-images.githubusercontent.com/106506769/189526401-27a9e79e-a757-4af6-b463-8ced1bc34d39.png)
 ![image](https://user-images.githubusercontent.com/106506769/189526415-1331280f-ff16-47f8-a593-6c8733ce03fd.png)
 
+![CooperPage](https://user-images.githubusercontent.com/106506769/189528413-29e84db6-7a38-4237-9098-39a253654b0c.gif)
 
 ### Overview
 I mastered HTML, CSS and Bootstrap features in this project. You can see the visual representation of the website above.
-![video](https://github.com/SkyCooper/bootstrapWeb/blob/main/Cooper%20Web%20Page.mp4)
+![video]https://github.com/SkyCooper/bootstrapWeb/blob/main/CooperPage.mp4
 
 ### Used in this project
 👉HTML tags, Bootstrap, Comments, CSS styling, Positioning,etc.
